@@ -19,8 +19,6 @@
     "keywords": [],
     "license": "MIT",
     "dependencies": {
-        "@emotion/react": "^11.9.0",
-        "@emotion/styled": "^11.8.1",
         "@mui/icons-material": "^5.11.16",
         "@mui/material": "^5.13.6",
         "@pmmmwh/react-refresh-webpack-plugin": "^0.5.10",
