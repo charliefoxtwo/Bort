@@ -25,7 +25,6 @@
         "@mui/material": "^5.13.6",
         "@pmmmwh/react-refresh-webpack-plugin": "^0.5.10",
         "electron-store": "^8.0.1",
-        "materialize-css": "^1.0.0",
         "react": "18.0.0",
         "react-dom": "18.0.0",
         "react-refresh": "^0.14.0",
